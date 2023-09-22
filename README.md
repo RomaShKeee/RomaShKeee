@@ -1,16 +1,18 @@
-### Hi there 👋
+# Roman Andreiev 🚀
 
-<!--
-**RomaShKeee/RomaShKeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Roman - a seasoned Full-Stack Engineer with a passion for building scalable and robust web-based applications. My journey in the tech world has led me to work with top-tier companies and promising startups, delivering high-quality solutions and driving impactful technical decisions.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages**: Ruby, JavaScript, TypeScript, Crystal, Elixir
+- **Databases**: SQL, PostgreSQL, MySQL, MongoDB, Neo4j
+- **Cloud**: AWS, GCP, Docker
+- **Methodologies**: OOP, Clean Code, TDD, Agile, Functional Programming, DDD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Remote Work
+Having worked remotely for most of my career, I've mastered the art of remote collaboration, ensuring that geographical boundaries don't limit creativity and productivity.
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/roman-andreev/)
+
+📌 _Open for collaborations, technical discussions, or simply connecting with fellow tech enthusiasts._
+
